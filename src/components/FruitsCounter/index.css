@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.background {
+  background-color: #ffd569;
+  height: 100vh;
+  background-size: cover;
+  padding: 30px;
+}
+.inner-container {
+  background-color: white;
+  height: 80vh;
+  border-radius: 10px;
+}
+.img {
+  height: 160px;
+  width: 180px;
+}
+.button {
+  background-color: #007bff;
+  margin: 20px;
+}
+.align-div {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+.count-color {
+  color: #ffd569;
+}
+.btn-align {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
